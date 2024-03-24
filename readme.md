@@ -21,6 +21,9 @@ Ce tableau de bord web affiche les données de COVID-19 à l'échelle mondiale e
 - JavaScript : Logique d'application et intégration avec l'API COVID-19.
 - Chart.js : Bibliothèque JavaScript pour créer des graphiques interactifs.
 - COVID-19 API : Fournit les données de COVID-19 utilisées pour alimenter le tableau de bord.
+## Site web
+
+Le tableau de bord COVID-19 est disponible en ligne à l'adresse suivante : [https://dijaben123.github.io/covid19-dashboard/](https://dijaben123.github.io/covid19-dashboard/)
 
 ## Crédits
 

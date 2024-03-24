@@ -1,0 +1,78 @@
+
+  h1{
+    text-align: center;
+  }
+  header{
+    background-color: green;
+    width: 133%;
+    height: 150px
+  }
+  img{
+    width: 300px;
+  padding-left: 10px;
+   margin-top: 20px;
+  }
+  #titre{
+    margin-top: -100px;
+    font-size: 70px;
+  }
+  #co2021{
+margin-left: 1100px;
+margin-top: -120px;
+font-size: 40px;
+  }
+  #side{
+    /* border: solid 2px gray;
+    width: 30%;
+    height: 1000px;
+    /* background-color: red; */
+    /*
+     */ 
+     margin-top: 42px;
+     width: 20vw;
+     height: 80vh;
+     border: 2px solid black;
+     border-radius: 12px;
+     margin: 20px;
+     overflow: scroll;
+     overflow-x: hidden;
+  }
+  #myChart{
+    border: solid 2px gray;
+    width: 30%;
+    height: 900px;
+    /* background-color: green; */
+    margin-left: 35%;
+    margin-top: -540px;
+    margin-bottom: 116px;
+  }
+  #container{
+    margin-left: 20px;
+  }
+  #content{
+    width: 900px;
+    height: 500px;
+  }
+  
+.listitem {
+  margin-left: 20px;
+  margin: 2px;
+  padding: 5px;
+  text-align: left;
+  font: menu;
+  font-family: inherit;
+  background-color: #198754;
+  border-radius: 5px;
+  color: white;
+}
+  
+.listitem:hover {
+  transition: 0.1s;
+  background-color: #479400;
+  cursor: pointer;
+}
+
+.listItem:active {
+  background-color: white;
+  color: black;
+}
